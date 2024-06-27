@@ -1,8 +1,12 @@
 # Calculadora
 Mayra Moyano
 
-Narciso Perez
-chimbo josue elias
 Yanina
+
+Chimbo Josue Elias
+
 Tiago
+
 kevin farias
+
+Narciso Perez
